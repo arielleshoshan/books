@@ -2,8 +2,7 @@
 
 $server   = "localhost";
 $database = "arielles_bookish";
-$username = "arielles_bookish";
-$password = "GatorBait7777";
+
 
 $conn = mysqli_connect($server, $username, $password, $database);
 
